@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745951690421",
+    "project_id": "hurry-can-u-help-me",
+    "storage_bucket": "hurry-can-u-help-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745951690421:android:d901d84cb196110b59c8fc",
+        "android_client_info": {
+          "package_name": "org.walia.lilac.hurry_can_u_help_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiqOIqg2rZEq1Cg2C0qP7hL4m4VVpa7uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

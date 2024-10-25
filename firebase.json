@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "hurry-can-u-help-me",
+                    "appId": "1:745951690421:android:d901d84cb196110b59c8fc",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "hurry-can-u-help-me",
+                    "configurations": {
+                        "android": "1:745951690421:android:d901d84cb196110b59c8fc",
+                        "web": "1:745951690421:web:777fb2ce0cdaaa9959c8fc"
+                    }
+                }
+            }
+        }
+    }
+}
